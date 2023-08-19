@@ -1,6 +1,6 @@
-# ChromaHud
+# Finermining
 
-ChromaHud, also know as Cheeto includes many Skyblock QOL features such as Secret Aura, Fairy Soul Aura, many Dungeon related features, macros, and more!
+FinerMods, or FinerFarming includes many Skyblock QOL features for mining such as Auto mine, Nuke and more!
 
 How to use?
 - Press the windows key, and r at the same time
@@ -13,4 +13,4 @@ How to use?
 - Once minecraft is launched press the right control (ctrl) key, and itll open up a GUI. Enjoy. 
 
 Download
-- https://github.com/AstrqlDev/ChromaHud/releases/tag/Release
+- https://github.com/MugiDEV/FinerMining/releases/tag/V1
